@@ -1,0 +1,18 @@
+[
+	{
+		"id":"3001",
+		"name":"欧阳克",
+		"phone":"131****6588",
+		"address_region":"江苏 常州市 钟楼区",
+		"address_info":"流星花园1号楼，1单元，101",
+		"checked":true
+	},
+	{
+		"id":"3002",
+		"name":"欧阳锋",
+		"phone":"131****2855",
+		"address_region":"江苏 常州市 钟楼区区",
+		"address_info":"流星花园3号楼，1单元，102",
+		"checked":false
+	}
+]
